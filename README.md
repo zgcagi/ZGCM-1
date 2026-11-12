@@ -18,6 +18,8 @@ Zhongguancun Academy · Zhongguancun Institute of Artificial Intelligence
 <p align="center">
   <a href="#evaluation-results">📊 Results</a>
   &nbsp;·&nbsp;
+  <a href="https://github.com/zgcagi/ACE">🎯 ACE</a>
+  &nbsp;·&nbsp;
   <a href="#getting-started"><img src="assets/icons/github.svg" width="18" height="18" alt=""> Training Code</a>
   &nbsp;·&nbsp;
   <a href="#wechat-community">💬 WeChat Community</a>
